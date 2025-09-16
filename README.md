@@ -1,4 +1,4 @@
-<H3>Name : DHARSHAN D S</H3>
+<H3>Name : DHARSHAN D </H3>
 <H3>Register no: 212223230045</H3>
 <H3>Date : 02/09/2025</H3>
 <H3>Experiment No. 2 </H3>
